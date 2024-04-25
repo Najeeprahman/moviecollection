@@ -2,7 +2,12 @@
 # moviecollection
 
 
-![Screenshot from 2024-04-25 17-26-02](https://github.com/Najeeprahman/moviecollection/assets/157038871/a2304dc5-6176-4624-808d-8d55752ebeb1)
+
+![x](https://github.com/Najeeprahman/moviecollection/assets/157038871/0ae3099f-0014-44c7-a584-4b9452892ad3)
+
+![y](https://github.com/Najeeprahman/moviecollection/assets/157038871/5bcd28e0-7c0f-4c56-bd36-00e00cb247b3)
+
+![z](https://github.com/Najeeprahman/moviecollection/assets/157038871/4f3041a7-e810-43d9-a140-53ffe912880e)
 
 
 =======
