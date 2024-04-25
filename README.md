@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # moviecollection
 
+HOST LINK : https://moviecollections7.netlify.app
+
 
 
 ![x](https://github.com/Najeeprahman/moviecollection/assets/157038871/0ae3099f-0014-44c7-a584-4b9452892ad3)
