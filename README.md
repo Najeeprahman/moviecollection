@@ -1,5 +1,10 @@
 <<<<<<< HEAD
 # moviecollection
+
+
+![Screenshot from 2024-04-25 17-26-02](https://github.com/Najeeprahman/moviecollection/assets/157038871/a2304dc5-6176-4624-808d-8d55752ebeb1)
+
+
 =======
 # Getting Started with Create React App
 
